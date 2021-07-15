@@ -1,0 +1,109 @@
+{
+  "crew": [
+    {
+      "id": "1",
+      "image": "/src/assets/images/1.png",
+      "name": "Crew Member 1",
+      "duties": "Tactic and Trim",
+      "duty_slugs": ["tactic", "trim"]
+    },
+    {
+      "id": "2",
+      "image": "../assets/images/2.png",
+      "name": "Crew Member 2",
+      "duties": "Helmsman",
+      "duty_slugs": ["helmsman"]
+    },
+    {
+      "id": "3",
+      "image": "../assets/images/3.png",
+      "name": "Crew Member 3",
+      "duties": "Helmsman and Tactic",
+      "duty_slugs": ["helmsman", "tactic"]
+    },
+    {
+      "id": "4",
+      "image": "../assets/images/4.png",
+      "name": "Crew Member 4",
+      "duties": "Main Helmsman",
+      "duty_slugs": ["helmsman"]
+    },
+    {
+      "id": "5",
+      "image": "../assets/images/5.png",
+      "name": "Crew Member 5",
+      "duties": "Helmsman and Trim",
+      "duty_slugs": ["helmsman", "trim"]
+    },
+    {
+      "id": "6",
+      "image": "../assets/images/6.png",
+      "name": "Crew Member 6",
+      "duties": "Trim",
+      "duty_slugs": ["trim"]
+    },
+    {
+      "id": "7",
+      "image": "../assets/images/7.png",
+      "name": "Crew Member 7",
+      "duties": "Tactic and Trim",
+      "duty_slugs": ["tactic", "trim"]
+    },
+    {
+      "id": "8",
+      "image": "../assets/images/8.png",
+      "name": "Crew Member 8",
+      "duties": "Helmsman and Trim",
+      "duty_slugs": ["helmsman", "trim"]
+    },
+    {
+      "id": "9",
+      "image": "../assets/images/9.png",
+      "name": "Crew Member 9",
+      "duties": "Junior Helmsman",
+      "duty_slugs": ["helmsman"]
+    },
+    {
+      "id": "10",
+      "image": "../assets/images/10.png",
+      "name": "Crew Member 10",
+      "duties": "Tactic and Trim",
+      "duty_slugs": ["tactic", "trim"]
+    },
+    {
+      "id": "11",
+      "image": "../assets/images/11.png",
+      "name": "Crew Member 11",
+      "duties": "Senior Helmsman and Trim",
+      "duty_slugs": ["helmsman", "trim"]
+    },
+    {
+      "id": "12",
+      "image": "../assets/images/12.png",
+      "name": "Crew Member 12",
+      "duties": "Tactic",
+      "duty_slugs": ["tactic"]
+    },
+    {
+      "id": "13",
+      "image": "../assets/images/13.png",
+      "name": "Crew Member 13",
+      "duties": "Trim",
+      "duty_slugs": ["trim"]
+    },
+    {
+      "id": "14",
+      "image": "../assets/images/14.png",
+      "name": "Crew Member 14",
+      "duties": "Tactic and Trim",
+      "duty_slugs": ["tactic", "trim"]
+    },
+    {
+      "id": "15",
+      "image": "../assets/images/15.png",
+      "name": "Crew Member 15",
+      "duties": "Tactic",
+      "duty_slugs": ["tactic"]
+    }
+  ]
+}

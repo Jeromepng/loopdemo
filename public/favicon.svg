@@ -1,0 +1,20 @@
+<svg id="Gruppe_1" data-name="Gruppe 1" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #c4132f;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="26" cy="26" r="26"/>
+  <path id="Polygon_1" data-name="Polygon 1" class="cls-2" d="M41,22.509l-17.009,9.5v-19Z"/>
+  <rect id="Rechteck_6" data-name="Rechteck 6" class="cls-3" x="20" y="10" width="4" height="34"/>
+</svg>
