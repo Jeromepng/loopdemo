@@ -83,7 +83,7 @@ export default {
   display: flex;
   flex-direction: row;
   position: relative;
-  margin-top: -460px;
+  margin-top: -380px;
 }
 .date-box {
   max-height: 400px;
